@@ -1,0 +1,146 @@
+body{
+  background: #23252C;
+  font-family: Inter, sans-serif;
+  color: white;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.profilepic{
+  align-items: center;
+  width: 317px;
+  height: 317px;
+}
+.container2{
+  background: #1A1B21;
+  width: 317px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.container1{
+  background: #1A1B21;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 317px;
+}
+.About{
+  display: flex;
+  flex-direction: column;
+  align-items:left;
+  text-align: left;
+}
+.About h2{
+  padding-top: 33px;
+  padding-left: 36px;
+  padding-bottom: 5px;
+  margin: 0px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.About p{
+  font-weight: 400;
+  font-size: 10.24px;
+  margin: 0;
+  padding-top: 0px;
+  padding-left: 36px;
+  padding-right: 34px;
+}
+.About h3{
+  font-size: 16px;
+  font-weight: 700;
+  padding-left: 36px;
+  padding-bottom: 5px;
+  padding-top: 25px;
+  margin: 0px;
+}
+.footer{
+  background: #1A1B21;
+  width: 317px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 19.5px 0px;
+  border-radius: 0px 0px 10px 10px;
+}
+.footer img{
+  margin-left: 12px;
+  margin-right: 12px;
+}
+.buttons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+}
+.name h2{
+  font-size: 25px;
+  font-weight: 700;
+  margin: 0;
+  padding-top: 21px;
+}
+.name h4{
+  color: #F3BF99;
+  font-size: 12.8px;
+  font-weight: 400;
+  margin: 0;
+  padding-top: 6.19px;
+}
+.name p{
+  color: #F5F5F5;
+  font-size: 10.24px;
+  font-weight: 400;
+  margin: 0;
+  padding-top: 8.81px;
+  padding-bottom: 15px;
+}
+.buttons #b1 {
+  background-color: white ;
+  padding: 9px 13px 9px 13px;
+  border-radius:6px;
+  width: 115px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  margin-right: 8.5px;
+  font-family: Inter,sans-serif;
+  border-style: none;
+  outline-style: none;
+}
+.buttons #b1 img{
+  margin-right: 9.33px;
+}
+.buttons #b2 img{
+  margin-right: 9.33px;
+  padding: 0;
+}
+
+.buttonalign{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttons #b2 {
+  background: #5093E2;
+  padding: 9px 13px 9px 13px;
+  border-radius:6px;
+  width: 115px;
+  font-weight: 500;
+  color: white;
+  margin-left: 8.5px;
+  font-family: Inter,sans-serif;
+  border-style: none;
+  outline-style: none;
+}
+
+.images{
+  width: 13.33px;
+  height: 13.33px;
+}
+#interests{
+  padding-bottom: 26px;
+}
